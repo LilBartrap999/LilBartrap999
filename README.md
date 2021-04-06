@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate Full Stack developer from the Dominican Republic and currently living in Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lilbartrap999&label=Profile%20views&color=ff0000&style=flat" alt="lilbartrap999" /> </p>
-
-<p align="left"> <a href="https://twitter.com/lil_bartrap" target="blank"><img src="https://img.shields.io/twitter/follow/lil_bartrap?logo=twitter&style=for-the-badge" alt="lil_bartrap" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lilbartrap999&label=Profile%20views&color=ff0000&style=flat" alt="lilbartrap999" /> </p>
 
 - 🔭 I’m currently working on [Keko (Discord Bot)](https://kekobot.ga/)
 
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilbartrap999&show_icons=true&locale=en&layout=compact" alt="lilbartrap999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilbartrap999&show_icons=true&theme=dracula&title_color=ff0000&text_color=ffffff&locale=en" alt="lilbartrap999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilbartrap999&theme=dark" alt="lilbartrap999" /></p>

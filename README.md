@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilbartrap999&show_icons=true&locale=en&layout=compact" alt="lilbartrap999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilbartrap999&show_icons=true&theme=dracula&title_color=ff0000&text_color=ffffff&locale=en" alt="lilbartrap999" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilbartrap999&show_icons=true&theme=dracula&title_color=ff0000&text_color=ffffff&locale=en" alt="lilbartrap999" /></p>

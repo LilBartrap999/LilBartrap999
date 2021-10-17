@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lilbartrap999&label=Profile%20views&color=ff0000&style=flat" alt="lilbartrap999" /> </p>
 
-- 🔭 I’m currently working on [Keko (Discord Bot)](https://kekobot.ga/)
+- 🔭 I’m currently working on SkirtBot (Discord Bot) & AutoBot Discord
 
 - 🌱 I’m currently learning **PHP and SQL**
 

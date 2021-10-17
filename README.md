@@ -15,7 +15,7 @@
 <a href="https://twitter.com/lil_bartrap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lil_bartrap" height="30" width="40" /></a>
 <a href="https://instagram.com/__.rbn.____" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__.rbn.____" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lilbartrap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="lilbartrap" height="30" width="40" /></a>
-<a href="https://discord.gg/EuCy8S3Xmm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="EuCy8S3Xmm" height="30" width="40" /></a>
+<a href="https://discord.com/users/594639565268975618" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="EuCy8S3Xmm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

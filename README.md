@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center">A passionate Full Stack developer from the Dominican Republic and currently living in Italy</h3>
+<h1>Hi 👋, I'm Robin</h1>
+<h3>A passionate Full Stack developer from the Dominican Republic and currently living in Italy</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lilbartrap999&label=Profile%20views&color=ff0000&style=flat" alt="lilbartrap999" /> </p>
 
